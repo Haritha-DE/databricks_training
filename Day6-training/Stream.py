@@ -37,3 +37,8 @@ users_schema=StructType([StructField("Id", IntegerType()),
 
 # MAGIC %sql
 # MAGIC select * from bronze.streamm
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC Select "git hub"
